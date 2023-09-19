@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+.vitae{
+  display: flex;
+  flex-direction: row;
+
+}
+
+
+.perfil{
+  background-color: rgb(0, 34, 65);
+  width: 360px;
+  height: 1500px;
+  padding: 30px;
+
+
+}
+
+.developer{
+  background-color: white;
+}

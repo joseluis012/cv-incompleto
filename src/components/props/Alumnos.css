@@ -1,0 +1,9 @@
+.alumnos{
+    color:black;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(221, 224, 14);
+    margin:15px;
+    border-radius: 15px;
+    padding-left: 15px;
+}

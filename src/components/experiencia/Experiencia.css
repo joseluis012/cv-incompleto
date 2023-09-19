@@ -1,0 +1,15 @@
+.experiencia{
+    color:black;
+    padding: 25px;
+}
+
+.ruta{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    gap:155px;
+    margin-top: 25px;
+    line-height: 1.8;
+
+    
+}
